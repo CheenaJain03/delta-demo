@@ -1,2 +1,4 @@
 # delta-demo
-kuch bhi
+
+# Hello
+I'm learning GIT
